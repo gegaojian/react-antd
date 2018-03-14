@@ -60,5 +60,9 @@
     "react-router-redux": "^4.0.8",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lilei1988/react-antd.git"
+    }
 }
