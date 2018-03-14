@@ -1,0 +1,13 @@
+.ant-menu .ant-menu-item a{
+    color: rgba(255, 255, 255, 0.65);
+    text-decoration: none;
+}
+
+
+.ant-menu .ant-menu-item-selected a{
+    color: white;
+}
+
+.ant-menu .ant-menu-item a:hover{
+    color: white;
+}

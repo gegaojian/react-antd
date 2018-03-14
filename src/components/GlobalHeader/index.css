@@ -1,0 +1,17 @@
+.headerTip{
+    float: right;
+    margin-right: 16px;
+
+}
+
+.headerTip>span{
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 10px;
+    /* width: 50px; */
+}
+
+.headerTip span:hover{
+    background:#e6f7ff;
+}
+
